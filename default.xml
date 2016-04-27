@@ -502,5 +502,5 @@
   <project path="kernel/asus/moorefield" name="CyanogenMod/android_kernel_asus_moorefield" remote="cm" />
   <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" remote="cm" />
   <project path="packages/apps/ViPER4Android" name="viper4android_fx" remote="dno" />
-  <project path="build" name="CyanogenMod/android_build" groups="pdk" >
+  <project path="build" name="CyanogenMod/android_build" groups="pdk" />
 </manifest>
