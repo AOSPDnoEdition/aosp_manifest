@@ -16,6 +16,10 @@
            fetch="https://github.com/AOSP-Zenfone2"
            revision="refs/heads/mm6.0" />
 
+   <remote  name="viper"
+           fetch="https://github.com/AOSP-Zenfone2"
+           revision="refs/heads/mm6.0" />
+
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
