@@ -4,8 +4,8 @@
   <remote  name="aosp"
            fetch="https://github.com/android"
            review="https://android-review.googlesource.com/" />
-  <default revision="master"
-           remote="android-6.0.1_r30"
+  <default revision="android-6.0.1_r30"
+           remote="aosp"
            sync-j="4" />
            
    <remote  name="cm"
